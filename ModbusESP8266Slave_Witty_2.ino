@@ -45,7 +45,7 @@ void setup()
     pinMode(GREEN, OUTPUT);
     pinMode(BLUE, OUTPUT);
     
-  Mb.begin("Silavadee_2G", "0809000240", ip, gateway, subnet);
+  Mb.begin("Sila2Gxxx", "0809xxxx", ip, gateway, subnet);
 //  Mb.begin("1503523", "D2E7D32DBC883");
 
   delay(1000);
